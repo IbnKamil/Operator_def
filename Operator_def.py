@@ -1,4 +1,5 @@
-def print_params():
-    print('Я убийца великанов!')
-print_params()
-print_params()
+def params():
+    return('Я убийца великанов!')
+print(params())
+print(params())
+
